@@ -4,9 +4,9 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🌱 I’m currently learning **Python And Java**
+- 🌱 I’m currently learning **Python And Data Analytics & Data Science**
 
-- 💬 Ask me about Software Testing and programming languages
+- 💬 Ask me about Data Visualization and Data Processing
 
 - 📫 How to reach me **jrvk56@gmial.com**
 
