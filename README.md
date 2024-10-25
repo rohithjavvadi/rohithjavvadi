@@ -1,5 +1,5 @@
-<h1 align="center">Hello 👋, I'm JAVVADI ROHITH VENKATA KRISHNA</h1>
-<h3 align="center">A Passionate Technophile from India, Exploring the World of Data Science and Analytics</h3>
+<h1 align="center">Hello, I'm JAVVADI ROHITH VENKATA KRISHNA 👋</h1>
+<h3 align="center">Technophile | Data Enthusiast | Lifelong Learner</h3>
 
 <p align="center">
     <img align="center" src="https://user-images.githubusercontent.com/74038190/212749363-58f213b3-4bb0-4881-bca2-7b7f978f3c44.gif" alt="Coding" width="500" />
@@ -7,19 +7,18 @@
 
 ---
 
-### 🌱 About Me:
-- 🔭 Currently learning **Python, Data Analytics, and Data Science**
-- 💬 Ask me about **Data Visualization, Data Processing, and Analytics Tools**
-- 📧 How to reach me: **jrvk56@gmail.com**
-- ⚡ Fun fact: I love combining **creativity with data** to tell compelling stories!
+### 👨‍💻 About Me:
+- 🌱 Currently diving deep into **Python, Data Analytics, and Data Science**
+- 💬 Let's chat about **Data Visualization, Data Processing, and Analytics Tools**
+- 📫 Reach me at: **jrvk56@gmail.com**
+- ⚡ Fun fact: **I'm constantly exploring the intersection of creativity and data to tell compelling stories!**
 
 ---
 
 ### 📫 Let's Connect:
-
 <p align="center">
-    <a href="https://linkedin.com/in/javvadi-rohith-venkata-krishna" target="blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-    <a href="https://www.hackerrank.com/javvadi_rohith" target="blank"><img src="https://img.shields.io/badge/Hackerrank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white" alt="Hackerrank" /></a>
+    <a href="https://linkedin.com/in/javvadi-rohith-venkata-krishna" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+    <a href="https://www.hackerrank.com/javvadi_rohith" target="_blank"><img src="https://img.shields.io/badge/Hackerrank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white" alt="Hackerrank" /></a>
 </p>
 
 ---
@@ -42,17 +41,13 @@
 
 ### 📊 GitHub Stats:
 
-<p align="center">
+<div align="center">
     <img src="https://github-readme-stats.vercel.app/api?username=rohithjavvadi&show_icons=true&theme=radical" alt="GitHub Stats" width="450"/>
-</p>
-
-<p align="center">
+    <br>
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=rohithjavvadi&theme=radical" alt="GitHub Streak" width="450"/>
-</p>
-
-<p align="center">
+    <br>
     <img src="https://github-readme-stats.vercel.app/api/top-langs?username=rohithjavvadi&show_icons=true&theme=radical&layout=compact" alt="Top Languages" width="450"/>
-</p>
+</div>
 
 ---
 
